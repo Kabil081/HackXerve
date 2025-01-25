@@ -14,6 +14,9 @@ const  Navbar=()=> {
           </a>
           <a
             className="text-white hover:text-blue-300 transition duration-300"
+          >Profile</a>
+          <a
+            className="text-white hover:text-blue-300 transition duration-300"
           >
             Contact Us
           </a>
